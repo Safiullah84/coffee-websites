@@ -356,10 +356,10 @@
     border: 1px solid rgba(255, 255, 255, 0.436);
     height: 70px;
     width: 50px;
-    line-height: 5rem;
+    line-height: 3rem;
     font-size: 20px;
     color: rgb(255, 255, 255);
-
+    text-align:center;
 }
 
 .item_img img{
@@ -440,7 +440,6 @@
     color: #d3ad7f;
 }
 
-/*------------- CONTACT US -------------*/
 /* ---------- Contact Section ---------- */
 .contact {
   background-color: #000;
@@ -697,3 +696,4 @@ form h3 {
   background-color:#b48b60;
   color:#fbfbfb;
 }
+
